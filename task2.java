@@ -25,6 +25,6 @@ public class task2 {
         strings.add("my_string");
         strings.add("17.4");
         removeIntegers(strings);
-        System.out.println(strings); // [string, my_string]
+        System.out.println(strings); // [string, my_string, 17.4]
     }
 }
